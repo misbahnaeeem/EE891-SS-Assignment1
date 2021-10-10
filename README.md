@@ -2,20 +2,20 @@
 
 
 #Author: Misbah Naeem  <br/>
-#course title: EE891_Stochastic System \n
-#Assignment _1 \n
-#Probability Concept \n
+#course title: EE891_Stochastic System <br/>
+#Assignment _1 <br/>
+#Probability Concept <br/>
 
-STS A1 Questions.pdf is the question file.
+STS A1 Questions.pdf is the question file.<br/>
 
-SS Assignment1 solution.pdf is the pdf slution file
+SS Assignment1 solution.pdf is the pdf slution file<br/>
 
-some part of the asssignment are performed on MATLAB so all m files are attached 
+some part of the asssignment are performed on MATLAB so all m files are attached <br/>
 
-Sleep_bayes.m \n
-biased_coin.m \n
-random_integers.csv \n
-test_biased_coin.m  \n
+Sleep_bayes.m <br/>
+biased_coin.m <br/>
+random_integers.csv <br/>
+test_biased_coin.m  <br/>
 are the supporting files and provided as input
 
 All other m files are output files. 
