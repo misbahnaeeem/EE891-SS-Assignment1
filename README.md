@@ -1,7 +1,7 @@
 # EE891-SS-Assignment1
 
 
-#Author: Misbah Naeem \n
+#Author: Misbah Naeem  (<-- two spaces)
 #course title: EE891_Stochastic System \n
 #Assignment _1 \n
 #Probability Concept \n
